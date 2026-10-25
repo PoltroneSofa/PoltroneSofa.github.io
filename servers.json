@@ -104,7 +104,11 @@
       "name": "uwucloud",
       "address": "https://ani.uwucloud.fun",
       "kind": 0
-    }
+    },
+    {
+            "name": "Las Borra",
+            "address": "https://anisette-v3-server-n1r7.onrender.com"
+        }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
